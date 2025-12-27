@@ -1,0 +1,22 @@
+[
+{"Kelime": "Yaradan", "DogruMu": true},
+{"Kelime": "Yaratan", "DogruMu": false},
+{"Kelime": "yalnız", "DogruMu": true},
+{"Kelime": "yanlız", "DogruMu": false},
+{"Kelime": "çevrim içi", "DogruMu": true},
+{"Kelime": "çevrimiçi", "DogruMu": false},
+{"Kelime": "küsur", "DogruMu": true},
+{"Kelime": "küsür", "DogruMu": false},
+{"Kelime": "hafriyat", "DogruMu": true},
+{"Kelime": "harfiyat", "DogruMu": false},
+{"Kelime": "ünvan", "DogruMu": true},
+{"Kelime": "unvan", "DogruMu": false},
+{"Kelime": "şoför", "DogruMu": true},
+{"Kelime": "şöför", "DogruMu": false},
+{"Kelime": "döküman", "DogruMu": true},
+{"Kelime": "doküman", "DogruMu": false},
+{"Kelime": "acayip", "DogruMu": true},
+{"Kelime": "acaip", "DogruMu": false},
+{"Kelime": "zarafet", "DogruMu": true},
+{"Kelime": "zerafet", "DogruMu": false}
+]
