@@ -1,2 +1,2 @@
 # Kelime-Macerasi
-Oyun Programlama Dersi Proje
+Game Programming School Project
