@@ -21,4 +21,4 @@ Bu proje tamamen **açık kaynaklıdır**. İlgilenen herkes:
 * **Programlama:** C#
 
 ## 🔒 Lisans
-Bu proje **Creative Commons Zero v1.0 Universal** lisansı ile sunulmaktadır. Bilginin özgürce paylaşılması ve geliştirilmesi amacıyla tüm hakları kamuya açıktır.
+Bu proje **MIT LICANSE** lisansı ile sunulmaktadır. Bilginin özgürce paylaşılması ve geliştirilmesi amacıyla tüm hakları kamuya açıktır.
