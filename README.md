@@ -1,24 +1,24 @@
-# 🎮 Kelime Macerası: Dil Bilgisi Temalı Unity 3D Oyunu
+# 🎮 Kelime Macerası: Grammar-Themed Unity 3D Game
 
-**Kelime Macerası**, temel dil bilgisi ve yazım kurallarını interaktif bir 3D dünyada öğreten açık kaynaklı bir eğitim oyunudur. Unity motoru ve C# kullanılarak geliştirilen bu proje, yazılım öğrenme sürecimdeki ilk teknik çıktılardan biridir.
+**Kelime Macerası** is an open-source educational game that teaches basic grammar and spelling rules within an interactive 3D world. Developed using the Unity engine and C#, this project represents one of the first technical outputs in my software learning journey.
 
-## 🖼️ Oyun Ekran Görüntüleri
+## 🖼️ Game Screenshots
 
-| Başlangıç Ekranı | Oyun İçi Sahne | Oyun Sonu |
+| Start Screen | In-Game Scene | Game Over |
 | :---: | :---: | :---: |
 | ![Giriş](Screenshots/baslangic_ekran.png) | ![Oyun](Screenshots/oyun.png) | ![Son](Screenshots/oyun_sonu.png) |
 
-## 🕹️ Oyunun Mantığı ve Oynanış
-Oyun, oyuncunun dil bilgisi bilgisini reflekslerle birleştirir:
-* **Karar Mekanizması:** Ekranda beliren kelimenin yazımı doğru ise yeşil küreye, yanlış ise kırmızı küreye temas ederek puan toplanır.
-* **Zorluk Ayarları:** "Kolay", "Orta" veya "Zor" modlar seçilebilir.
+## 🕹️ Game Logic and Gameplay
+The game combines the player's grammar knowledge with their reflexes:
+* **Decision Mechanism:** If the spelling of the word appearing on the screen is correct, points are collected by touching the green sphere; if it is incorrect, points are collected by touching the red sphere.
+* **Difficulty Settings:** "Easy", "Medium", or "Hard" modes can be selected.
 
-## 🛠️ Teknik Özellikler ve Geliştirme
-Bu proje tamamen **açık kaynaklıdır**. İlgilenen herkes:
-* **Kaynak kodlarını** indirebilir ve Unity ile açıp inceleyebilir.
-* Proje üzerinde **değişiklikler yapabilir**, kendi kelime listelerini ekleyebilir veya mekanikleri geliştirebilir.
-* **Motor:** Unity 3D
-* **Programlama:** C#
+## 🛠️ Technical Features and Development
+This project is completely **open source**. Anyone interested can:
+* Download the **source codes** and open them with Unity to examine.
+* **Make changes** to the project, add their own word lists, or improve the mechanics.
+* **Engine:** Unity 3D
+* **Programming:** C#
 
-## 🔒 Lisans
-Bu proje **MIT LICENSE** lisansı ile sunulmaktadır. Bilginin özgürce paylaşılması ve geliştirilmesi amacıyla tüm hakları kamuya açıktır.
+## 🔒 License
+This project is provided under the **MIT LICENSE**. All rights are open to the public for the purpose of free sharing and development of knowledge.
